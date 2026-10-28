@@ -10,4 +10,8 @@ public class HelloController {
     public String hello() {
         return "Food Delivery Backend is running!";
     }
+    public void mike(){
+        String a ="absm";
+        return;
+    }
 }
